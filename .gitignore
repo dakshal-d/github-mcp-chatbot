@@ -1,0 +1,4 @@
+.env
+servers_config.json
+.vscode
+.venv
